@@ -71,7 +71,14 @@ The report consists of three pages:
 
 ## 🔍 Key Insights
 
-*(to be updated)*
+## 🔍 Key Insights
+
+* Sales and profit show consistent year-over-year growth  
+* The Central region has significantly lower profit despite comparable sales to other regions  
+* Furniture has the lowest profit margin among all categories  
+* Technology is the most profitable category  
+* Tables, Bookcases, and Supplies generate negative profit despite strong sales
+
 
 * Technology category generates the highest profitability
 * Some categories show high sales but lower margins
