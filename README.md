@@ -98,7 +98,7 @@ The report consists of three pages:
 
 ### Customer & Regional Analysis
 
-![Customers](screenshots/Customers and Geography.png)
+![Customers](screenshots/"Customers and Geography".png)
 
 ---
 
